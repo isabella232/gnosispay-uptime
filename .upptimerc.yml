@@ -20,5 +20,5 @@ status-website:
   introTitle: "**GnosisPay**"
   introMessage: Check the availability for GnosisPay services
   cname: status.gnosispay.com
-  theme: light
+  theme: dark
 
